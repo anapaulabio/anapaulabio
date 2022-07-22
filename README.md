@@ -1,9 +1,18 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ana Paula Oliveira</h1>
 
-- 🔥 Júnior Web Developer 
+- 🔥 Web Developer 
 - 🔭 I’m currently working at Freelancer Professional
 
 
+### 🛠 &nbsp;Tech Stack
+
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white">
+
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/anapaulaoliveiraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **anapaulabio/anapaulabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
