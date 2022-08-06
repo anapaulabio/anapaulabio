@@ -1,16 +1,20 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ana Paula Oliveira! <a href="https://www.linkedin.com/in/anapaulaoliveiraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a> </h1>
+<div align="center">
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ana Paula Oliveira!</h1>
+<a href="https://www.linkedin.com/in/anapaulaoliveiraa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔥 Web Developer Student;
-- 🔭 I’m currently working at Freelancer Professional
+<h4> -🔥 Web Developer Student; </h4>
+<h4> - 🔭 I’m currently working at Freelancer Professional; </h4>
 
 
-### 🛠 &nbsp;Tech Stack
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=anapaulabio" height="130" alt="languages graph"  />
+<div align="center"> 
+ <h2>🛠 Tech Stack </h2>  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">     <img src="https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white">
+</div>
+<br>
+<div align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=anapaulabio&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp; <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anapaulabio&hide_border=true&theme=nightowl&show_icons=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anapaulabio&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"/>
+</div>
 
 <!--
 **anapaulabio/anapaulabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
