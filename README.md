@@ -4,7 +4,6 @@
 </div>
 
 <h4> -🔥 Web Developer Student; </h4>
-<h4> - 🔭 I’m currently working at Freelancer Professional; </h4>
 
 
 <div align="center"> 
